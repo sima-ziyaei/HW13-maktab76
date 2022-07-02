@@ -1,0 +1,13 @@
+*{
+    border:0;
+    box-sizing: border-box;
+    padding:0;
+
+}
+html,body{
+width: 100vw;
+}
+.id{
+    border:1px solid black;
+    width: 75px;
+}
